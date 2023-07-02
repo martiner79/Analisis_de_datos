@@ -1,0 +1,6 @@
+Ganancias,Productos
+5, Chocolate
+2, Avena
+3, Coco
+7, Harinas
+8, Miel
